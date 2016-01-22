@@ -1,0 +1,54 @@
+MacroPy always on top? (1 or 0)
+0
+Delay between each exectution? (float)
+0.2
+Echo? (Boolean)
+False
+Background Colour (Hex)
+#D9D3C5
+Button Foreground (Hex)
+#000000
+Button Background (Hex)
+#B6BDCF
+Themes:
+
+	Cyan:
+		Background Colour (Hex)
+		#CDFAE8
+		Button Foreground (Hex)
+		#000000
+		Button Background (Hex)
+		#a1dbcd
+	
+	Rouge:
+		Background Colour (Hex)
+		#AA3C39
+		Button Foreground (Hex)
+		#550200
+		Button Background (Hex)
+		#FFACAA
+	
+	Industrial
+		Background Colour (Hex)
+		#565F67
+		Button Foreground (Hex)
+		#6A757F
+		Button Background (Hex)
+		#394046
+	
+	Template
+		Background Colour (Hex)
+		#D9D3C5
+		Button Foreground (Hex)
+		#FFFFFF
+		Button Background (Hex)
+		#B6BDCF
+
+
+	Template
+		Background Colour (Hex)
+		#
+		Button Foreground (Hex)
+		#
+		Button Background (Hex)
+		#

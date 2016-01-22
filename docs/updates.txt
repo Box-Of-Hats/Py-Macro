@@ -1,0 +1,21 @@
+Version 2.1:
+	-Added ability to make new recordings by pressing space
+	-Executions can now be called by pressing the enter key
+
+Version 2.2: 
+	-Added ability to add delay between loops, currently only integers are supported
+
+Version 2.3:
+	-Added ability to move mouse by relative amounts, use + and - in mouse positions
+
+Version 2.4:
+	-Improved the Key List Interface, keys can now be loaded by clicking on the list.
+	-Slight optimisations with looped executions
+	-Infinite Loops can now have delays
+
+Version 2.5:
+	-Individual Actions can now be edited from within the program 
+	-New Edit GUI
+	-Loop delays can now be float values (to 1dp)
+	-Beeping can now be toggled off from the GUI
+	-Added Gear Icon to open config.txt
